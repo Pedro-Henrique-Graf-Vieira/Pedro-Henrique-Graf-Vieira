@@ -22,5 +22,5 @@
   </div>
 
   <div align="center">
-  <img src="https://github.com/Victor-Munhoz/Victor-Munhoz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Pedro-Henrique-Graf-Vieira/Pedro-Henrique-Graf-Vieira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
