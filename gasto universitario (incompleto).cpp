@@ -27,7 +27,9 @@ main(){
 	gasto_mensal = aluguel + alimentacao + transporte + internet + lazer + material_academico;
 	gasto_anual = gasto_mensal * 12;
 	gasto_diario = gasto_mensal / 30;
-	percentual_aluguel = gasto_mensal * aluguel
+	percentual_aluguel = (aluguel / gasto_mensal) * 100;
+	
+	printf("O gasto mensal sera de:%.2f\nO gasto anual sera de:%.2f\nO gasto medio diario de:%.2f\nO percentual do aluguel em cima dos gastos gerais vai ser de:%.1f%%", gasto_mensal, gasto_anual, gasto_diario, percentual_aluguel);
 	
 	
 	
