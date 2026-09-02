@@ -3,10 +3,10 @@
 Projeto acadêmico — 1ª etapa (METEP)
 
 ## Integrantes
-- [NOME 1]
-- [NOME 2]
-- [NOME 3]
-- [NOME 4]
+- Pedro Henrique Graf Vieira RA:26002857-2
+- Murilo Stegani Ambrosio RA:26007986-2
+- Gustavo Henrique de Lima Costa RA:26001173-2
+
 
 ## Objetivo
 Sistema de apoio ao gerenciamento operacional das ações do Programa Saúde na Escola (PSE), com cadastro, pesquisa, atualização de situação e geração de resumos.
